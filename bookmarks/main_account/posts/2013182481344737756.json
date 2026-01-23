@@ -1,0 +1,18 @@
+{
+  "status_id": "2013182481344737756",
+  "username": "KacperTrzepiec1",
+  "display_name": "Kacper Trzepieciński",
+  "text": "💸 Claude Code za 0 zł? Jest sposób. Ollama właśnie wydała oficjalną integrację z Claude Code. Możesz teraz uruchomić tego samego agenta kodującego, ale zamiast płacić za abonament lub API Anthropic - podłączysz swój lokalny model. ⚙️ Jak to zrobić? Potrzebujesz: → Zainstalowaną Ollamę → Pobrany model lokalny (np. ollama pull qwen3-coder) → Zainstalowany Claude Code ⭐ Rekomendowane modele lokalne: → gpt-oss:20b → qwen3-coder 🤔 Moje zdanie? Jakość będzie niższa niż przy Sonnet czy Opus - to oczywiste. Ale z drugiej strony nie musisz płacić za abonament. Ja zostaję przy Opus 4.5 💎 - różnica w jakości jest dla mnie zbyt duża. Ale może ktoś z Was się skusi na takie rozwiązanie, szczególnie do prostszych projektów czy eksperymentów. Image",
+  "created_at": "",
+  "fetched_at": "2026-01-23T20:27:55.515399",
+  "metrics": {
+    "replies": 13,
+    "reposts": 3,
+    "likes": 90,
+    "bookmarks": 191,
+    "views": 13801
+  },
+  "has_media": true,
+  "is_quote": false,
+  "quoted_post": null
+}

@@ -1,0 +1,18 @@
+{
+  "status_id": "2013311949770215512",
+  "username": "akshay_pachaar",
+  "display_name": "Akshay 🚀",
+  "text": "this is huge. ollama is now compatible with the anthropic messages API. which means you can use claude code with open-source models. think about that for a second. the entire claude harness: - the agentic loops - the tool use - the coding workflows all powered by private LLMs running on your own machine. Image",
+  "created_at": "",
+  "fetched_at": "2026-01-23T20:28:23.457283",
+  "metrics": {
+    "replies": 149,
+    "reposts": 255,
+    "likes": 2206,
+    "bookmarks": 2023,
+    "views": 163577
+  },
+  "has_media": true,
+  "is_quote": false,
+  "quoted_post": null
+}

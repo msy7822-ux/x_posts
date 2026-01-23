@@ -1,0 +1,18 @@
+{
+  "status_id": "2013482180564132092",
+  "username": "UnslothAI",
+  "display_name": "Unsloth AI",
+  "text": "You can now run GLM-4.7-Flash locally on your device! 🔥 GLM-4.7-Flash is the best performing 30B model on SWE-Bench and GPQA. With 200K context, it excels at coding, agents, chat & reasoning. Run local with 24GB RAM. Guide: unsloth.ai/docs/models/gl GGUF: huggingface.co/unsloth/GLM-4. Image Z.ai",
+  "created_at": "",
+  "fetched_at": "2026-01-23T20:27:39.556398",
+  "metrics": {
+    "replies": 67,
+    "reposts": 300,
+    "likes": 2103,
+    "bookmarks": 1590,
+    "views": 310825
+  },
+  "has_media": true,
+  "is_quote": true,
+  "quoted_post": null
+}

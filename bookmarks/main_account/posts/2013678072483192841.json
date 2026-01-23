@@ -1,0 +1,18 @@
+{
+  "status_id": "2013678072483192841",
+  "username": "nukonuko",
+  "display_name": "ぬこぬこ | NUKO",
+  "text": "Vercel が Skills.sh を公開 Agent Skills を見つけたり、共有できたりするウェブサイト。ランキングが見えたり、各 Skills の詳細な説明があったり。Agent Skills を入れるときは下記のコマンドで。 npx skills add <owner/repo> skills.sh skills.sh The Agent Skills Directory From skills.sh Accounts subscribed to or mentioned by @nukonuko can reply",
+  "created_at": "",
+  "fetched_at": "2026-01-23T20:27:15.168488",
+  "metrics": {
+    "replies": 0,
+    "reposts": 57,
+    "likes": 571,
+    "bookmarks": 542,
+    "views": 44959
+  },
+  "has_media": true,
+  "is_quote": false,
+  "quoted_post": null
+}

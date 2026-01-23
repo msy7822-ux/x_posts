@@ -1,0 +1,18 @@
+{
+  "status_id": "2013626968386765291",
+  "username": "Remotion",
+  "display_name": "Remotion",
+  "text": "Remotion now has Agent Skills - make videos just with Claude Code! $ npx skills add remotion-dev/skills This animation was created just by prompting 👇  0:07",
+  "created_at": "",
+  "fetched_at": "2026-01-23T20:27:01.916713",
+  "metrics": {
+    "replies": 588,
+    "reposts": 2605,
+    "likes": 15098,
+    "bookmarks": 26179,
+    "views": 9758035
+  },
+  "has_media": true,
+  "is_quote": false,
+  "quoted_post": null
+}

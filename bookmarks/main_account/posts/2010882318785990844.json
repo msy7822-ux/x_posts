@@ -1,0 +1,18 @@
+{
+  "status_id": "2010882318785990844",
+  "username": "riku720720",
+  "display_name": "Rikuo",
+  "text": "動画をClaudeCodeに読ませる試み。 普通にフレーム分割して全部渡すと、5秒の動画で450円くらいかかるので pythonを使って、差分が大きいキーフレームのみを抽出。画質も下げて、５秒の動画読み込みを24円まで削減。 これをskillsにすれば、画面遷移のバグとかも修正が楽になるはず Image Image",
+  "created_at": "",
+  "fetched_at": "2026-01-23T20:32:07.398257",
+  "metrics": {
+    "replies": 7,
+    "reposts": 111,
+    "likes": 948,
+    "bookmarks": 925,
+    "views": 530890
+  },
+  "has_media": true,
+  "is_quote": false,
+  "quoted_post": null
+}

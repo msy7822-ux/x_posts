@@ -1,0 +1,18 @@
+{
+  "status_id": "2014133276072611904",
+  "username": "__SatoshiSsSs__",
+  "display_name": "Sekioka Satoshi",
+  "text": "Claude Codeの「入力トークン」を97%削減するツール、見つけた grepaiってやつ。Ollama/LM Studio/OpenAI選択式でembeddingを生成し、セマンティック検索で関連コードだけ渡す仕組み。 公式ベンチマーク（Excalidraw 15.5万行 TypeScript、5問×5回実行で再現性確認）： ・入力トークン: -97% ・API課金額: -27.5% ・ツールコール: -55% ・キャッシュ生成: -71% ※開発者自身によるベンチマーク。キャッシュ読み取りは逆に+30%のためコスト削減は27.5%に留まる 削減の最大要因は「サブエージェント起動を5→0に」。Claude Codeがgrep→ファイル逐次読みで探索する代わりに、grepaiが一発で関連コードを特定。 Call Graph機能（11言語対応）で呼び出し関係も追跡可。MCP Server対応でCursor/Windsurf/Gemini CLIとも連携できる。 「Serena（約19k ⭐ ）と何が違うの？」って声が聞こえそうなので比較 👇 Image",
+  "created_at": "",
+  "fetched_at": "2026-01-23T20:25:56.671545",
+  "metrics": {
+    "replies": 2,
+    "reposts": 76,
+    "likes": 746,
+    "bookmarks": 920,
+    "views": 59936
+  },
+  "has_media": true,
+  "is_quote": false,
+  "quoted_post": null
+}
