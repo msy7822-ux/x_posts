@@ -1,0 +1,18 @@
+{
+  "status_id": "2015125228356297033",
+  "username": "andrew_n_carr",
+  "display_name": "Andrew Carr 🤸",
+  "text": "Just a few months after releasing Scoot, which we feel redefined motion generation quality, our team has made substantial improvements in speed, quality, subtlety, and instruction following. This comes in concert with our newly scaled data collection and labeling efforts, compute increase, substantial architectural improvements, and more stable / scalable training dynamics. Swing is our new flagship movement model. It's live today in Cartwheel studio with infinite batch generation coming soon to our API. Treating Movement as a fundamentally new data type has really unlocked our ability to rapidly make improvements. As it turns out there are far more use cases than you might imagine from entertainment to robotics.  0:25",
+  "created_at": "",
+  "fetched_at": "2026-01-26T11:26:10.385596",
+  "metrics": {
+    "replies": 38,
+    "reposts": 276,
+    "likes": 2764,
+    "bookmarks": 2503,
+    "views": 118632
+  },
+  "has_media": true,
+  "is_quote": false,
+  "quoted_post": null
+}

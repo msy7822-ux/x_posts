@@ -1,0 +1,18 @@
+{
+  "status_id": "2015365045623144561",
+  "username": "akshay_pachaar",
+  "display_name": "Akshay 🚀",
+  "text": "this is a game-changer. Ollama just dropped: ollama launch a single command that sets up coding tools like Claude Code, Opencode, and Codex with local or cloud models. all you need is one command, no environment variables or config files. think about what this means: - pick your model (local or cloud) - pick your tool - start coding that''s it. want to run Claude code with a local glm-4.7-flash? > ollama launch claude done. the barrier to running AI-powered coding workflows just dropped to zero.",
+  "created_at": "",
+  "fetched_at": "2026-01-26T11:25:12.250782",
+  "metrics": {
+    "replies": 10,
+    "reposts": 62,
+    "likes": 383,
+    "bookmarks": 494,
+    "views": 28832
+  },
+  "has_media": true,
+  "is_quote": false,
+  "quoted_post": null
+}
