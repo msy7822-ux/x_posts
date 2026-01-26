@@ -1,18 +1,18 @@
 {
   "status_id": "2012243387634618761",
   "username": "MarceloDesignX",
-  "display_name": "",
-  "text": "",
+  "display_name": "Marcelo Design X",
+  "text": "Marcelo Design X We’re not even done with January, and we’re already starting strong. Here are a few experimental prototypes we’ve been exploring.",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:31:06.344965",
+  "fetched_at": "2026-01-26T13:23:53.315131",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 41,
+    "reposts": 26,
+    "likes": 654,
+    "bookmarks": 494,
+    "views": 22475
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

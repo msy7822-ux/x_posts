@@ -1,18 +1,18 @@
 {
   "status_id": "2015081160771293528",
   "username": "airunner_linkai",
-  "display_name": "",
-  "text": "",
+  "display_name": "安東竜平 | Link AI",
+  "text": "安東竜平 | Link AI Cursor使ってたときは、あまり並列開発をせず、順列で待ってやっていたけど使い心地がいい（慣れてるだけ）のでそのままやってた。けどあるときCursorがとんでもない課金額になってて、これを機にClaude Codeに乗り換えた。最初は使いづらかったけど、色々情報収集して並列開発マスターした。そしたら今めちゃ開発速度上がりタイパもコスパも比にならないくらい向上。Cursorの課金額は焦ったけど、それは習慣を変え更に向上するチャンスだった。毎日同じ「心地いい」はこのAI時代は危ないと感じた。日々研究する精神が最も重要。",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:27:00.299708",
+  "fetched_at": "2026-01-26T13:24:41.172331",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 4,
+    "reposts": 8,
+    "likes": 150,
+    "bookmarks": 83,
+    "views": 32782
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

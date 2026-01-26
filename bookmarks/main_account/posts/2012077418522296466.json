@@ -1,18 +1,18 @@
 {
   "status_id": "2012077418522296466",
   "username": "lp_marketing_ma",
-  "display_name": "",
-  "text": "",
+  "display_name": "松尾｜web広告×講座販売",
+  "text": "松尾｜web広告×講座販売 最近のWEBデザイン業界が危険な方向に流れてる件について動画にしました。 下請けの下請けという、孫請け作業者デザイナーに自らなりに行ってて激ヤバです。 3:57",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:30:37.494104",
+  "fetched_at": "2026-01-26T13:25:36.344769",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 3,
+    "reposts": 11,
+    "likes": 73,
+    "bookmarks": 18,
+    "views": 33331
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

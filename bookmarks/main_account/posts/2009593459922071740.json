@@ -1,16 +1,16 @@
 {
   "status_id": "2009593459922071740",
   "username": "gunta85",
-  "display_name": "",
-  "text": "",
+  "display_name": "Günther | グンタ",
+  "text": "Günther | グンタ 開発基盤の覇権が、静かに動き始めている。 Cursor → Graphite買収 Google → Jujutsu開発元 Amp → スレッド共有機能 GitHub → GA外課金で炎上中、Microsoft化が止まらない 著名エンジニアたち、静かにGitからJujutsuへ移行し始めてるの知ってる？ AIエージェントが並列でコード書く時代、コンフリクトは「たまに起きるもの」から「常に起きるもの」に変わる。 Gitのコンフリクト解決はこの速度についていけない。 JJはそこをファーストクラスで解決してる。だから選ばれてる。 非同期PRは効率ではなく障壁になった。 次世代プラットフォームの条件： Jujutsu + スタッキング + リアルタイム協業 + 意思決定の文脈 + プロンプト履歴 GitHub一強の時代、終章に入った可能性がある。 正直、GitHubからこういう動きが出てほしかったー。 GraphiteだってCursorじゃなくてGitHubが買収すべきだった。",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:33:57.100647",
+  "fetched_at": "2026-01-26T13:25:01.867111",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 6,
+    "reposts": 125,
+    "likes": 804,
+    "bookmarks": 814,
+    "views": 122609
   },
   "has_media": false,
   "is_quote": false,

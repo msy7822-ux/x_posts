@@ -1,18 +1,18 @@
 {
   "status_id": "2014663232250876283",
   "username": "taziku_co",
-  "display_name": "",
-  "text": "",
+  "display_name": "田中義弘 | taziku CEO / AI × Creative",
+  "text": "田中義弘 | taziku CEO / AI × Creative 正直、3D ECの弱点は「遅さ」だった。 v2.0はそこを真正面から潰してきた。 3D Gaussian Splatting × SOG圧縮で、体験はリッチなのに読み込みは一瞬。 これはUI改善じゃなく、EC体験そのものの更新。 0:46 From PlayCanvas",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:30:58.040032",
+  "fetched_at": "2026-01-26T13:25:19.123165",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 1,
+    "reposts": 3,
+    "likes": 53,
+    "bookmarks": 34,
+    "views": 4318
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

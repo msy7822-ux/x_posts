@@ -1,18 +1,18 @@
 {
   "status_id": "2014737727875334562",
   "username": "F2TheL_",
-  "display_name": "",
-  "text": "",
+  "display_name": "FAISAL",
+  "text": "The Agent Skills Directory 1K ممكن رابط \"114\" The Agent Skills Directory",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:30:34.999309",
+  "fetched_at": "2026-01-26T13:24:38.717515",
   "metrics": {
     "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "reposts": 1,
+    "likes": 7,
+    "bookmarks": 10,
+    "views": 1010
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

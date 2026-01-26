@@ -1,18 +1,18 @@
 {
   "status_id": "2009187489571852316",
   "username": "riku720720",
-  "display_name": "",
-  "text": "",
+  "display_name": "Rikuo",
+  "text": "Rikuo 全てのバイブコーダーに向けて CLI上で動くコードエディタ『 』 をリリースしました ClaudeCodeが書いたコードをちょっと確認したい。 でもvimは覚えられない。 novimはマウス操作でvscodeと同じように操作できます。 0:07",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:34:01.208809",
+  "fetched_at": "2026-01-26T13:25:46.235642",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 8,
+    "reposts": 50,
+    "likes": 388,
+    "bookmarks": 342,
+    "views": 116214
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

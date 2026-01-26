@@ -1,18 +1,18 @@
 {
   "status_id": "2008712278276034922",
   "username": "sora19ai",
-  "display_name": "",
-  "text": "",
+  "display_name": "そら ☁️ AgentSkills 自動化オタク 📱",
+  "text": "そら AgentSkills 自動化オタク なぜエージェントではなくスキルなのか？ 1つ目がポータビリティ（移植性） 一度作成したスキルを複数のエージェントやドメインで共有できる 2つ目がコンポーザビリティ（組み立て可能性） 必要なスキルだけを組み合わせて、柔軟にエージェントを構成できる 3つ目が拡張性 Quote そら AgentSkills 自動化オタク \"@sora19ai\" Claude 公式のSkillsベストプラクティスがめちゃ参考になったので、分かりやすくまとめる。 ① コンテキストは「公共財」 ・SKILL.mdはとにかく短く ・PDFとは… ライブラリとは…みたいな単語は禁止 ・前提は「Claudeは最初からかなり賢い」 1.5K",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:31:46.677185",
+  "fetched_at": "2026-01-26T13:21:01.324978",
   "metrics": {
-    "replies": 0,
+    "replies": 1,
     "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "likes": 3,
+    "bookmarks": 4,
+    "views": 1537
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

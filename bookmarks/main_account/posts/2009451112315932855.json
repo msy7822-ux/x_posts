@@ -1,18 +1,18 @@
 {
   "status_id": "2009451112315932855",
   "username": "momo_web24",
-  "display_name": "",
-  "text": "",
+  "display_name": "もも（長谷川 麻子） 🍑 AI×デザイン",
+  "text": "もも（長谷川 麻子） AI×デザイン スワイプLPの成果、正直すごいです。。 実際に通常LPとスワイプLPにてABテストを実施した結果が出たので共有です。 【検証結果】 ・LINE遷移数：スワイプLPが通常LPの約2倍 ・CPA：通常LPの1/2以下 ※スワイプ化に伴う調整のみでデザイン・構成の大幅な変更は行っていません。 最小限の変更にもかかわらずコンバージョン数・コスト効率の両面で明確な差が出ました。この結果から今回は現時点でスワイプLPを優先して配信・改善を進めていく判断は妥当と考えられます。 数値に基づいたLP改善が成果に直結している事例です。",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:33:33.616181",
+  "fetched_at": "2026-01-26T13:22:34.200454",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 2,
+    "reposts": 8,
+    "likes": 132,
+    "bookmarks": 118,
+    "views": 15731
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

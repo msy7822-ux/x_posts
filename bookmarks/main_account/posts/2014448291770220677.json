@@ -1,10 +1,10 @@
 {
   "status_id": "2014448291770220677",
   "username": "enesakar",
-  "display_name": "",
-  "text": "",
+  "display_name": "Enes Akar",
+  "text": "Enes Akar Introducing Context7 Skills. - Search across 24k+ skills - Install skills with single command - Generate your own skills using Context7 docs (coming soon) npx ctx7 skills search \"Better Auth\" 0:20",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:32:24.707053",
+  "fetched_at": "2026-01-26T13:21:58.613244",
   "metrics": {
     "replies": 0,
     "reposts": 0,
@@ -12,7 +12,7 @@
     "bookmarks": 0,
     "views": 0
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

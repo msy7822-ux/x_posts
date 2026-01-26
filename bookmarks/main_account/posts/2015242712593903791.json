@@ -1,18 +1,18 @@
 {
   "status_id": "2015242712593903791",
   "username": "gosrum",
-  "display_name": "",
-  "text": "",
+  "display_name": "金のニワトリ",
+  "text": "金のニワトリ こちらはGLM-4.7を使って作成したバージョン テンプレートが決まっていると、Claude Opus 4.5とGLM-4.7でほとんどクオリティに差がないですね！！ 1:05 Quote 金のニワトリ \"@gosrum\" 電電猫猫さんのremotion-voicevox-templateをお試し 手始めに、このリポジトリを紹介する1分弱の動画を作ってもらったのですが、本当に5分で作れました！！ 今後キャラクター画像とかスタイルとかいじっていきたいと思います 電電猫猫さん、素晴らしいリポジトリの公開ありがとうございます！ x.com/nya3_neko2/sta…",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:25:44.091482",
+  "fetched_at": "2026-01-26T13:28:12.409102",
   "metrics": {
     "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "reposts": 14,
+    "likes": 143,
+    "bookmarks": 93,
+    "views": 17250
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

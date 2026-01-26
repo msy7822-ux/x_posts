@@ -1,18 +1,18 @@
 {
   "status_id": "2011959157654765851",
   "username": "fumidasu_yuki",
-  "display_name": "",
-  "text": "",
+  "display_name": "ぴんぼけパパ",
+  "text": "ぴんぼけパパ もうChatGPTでいいやん Last edited",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:30:57.831812",
+  "fetched_at": "2026-01-26T13:25:06.922283",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 64,
+    "reposts": 199,
+    "likes": 1412,
+    "bookmarks": 378,
+    "views": 285761
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

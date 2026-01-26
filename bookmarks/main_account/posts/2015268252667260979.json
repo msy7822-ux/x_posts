@@ -1,18 +1,18 @@
 {
   "status_id": "2015268252667260979",
   "username": "y_matsuwitter",
-  "display_name": "긱 🎗️",
-  "text": "",
+  "display_name": "松本 勇気 (Yuki Matsumoto) | LayerX CTO",
+  "text": "松本 勇気 (Yuki Matsumoto) | LayerX CTO 今日の記事、Agentの企画はUI開発無しでやってます、という流れの話。 「Web UIは最後でいい」— Agentサービスを立ち上げる高速検証フロー｜Matsumoto Yuki 「Web UIは最後でいい」— Agentサービスを立ち上げる高速検証フロー｜Matsumoto Yuki",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:25:37.830002",
+  "fetched_at": "2026-01-26T13:22:15.795943",
   "metrics": {
-    "replies": 3,
-    "reposts": 263,
-    "likes": 471,
-    "bookmarks": 643,
-    "views": 26769
+    "replies": 1,
+    "reposts": 6,
+    "likes": 128,
+    "bookmarks": 101,
+    "views": 18651
   },
-  "has_media": true,
+  "has_media": false,
   "is_quote": false,
   "quoted_post": null
 }

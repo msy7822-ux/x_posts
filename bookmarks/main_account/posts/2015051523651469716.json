@@ -1,18 +1,18 @@
 {
   "status_id": "2015051523651469716",
   "username": "NoahEpstein_",
-  "display_name": "",
-  "text": "",
+  "display_name": "Nozz",
+  "text": "Nozz Stop Learning n8n. Do This Instead. 75K \"I used to spend 8 hours building workflows. Now I spend 45 minutes. Not because I got better at n8n. Because I stopped trying to master it. Here's the thing nobody in automation Twitter wants to admit: the technical barrier to building workflows hit zero. The skill that matters now isn't node configuration or JSON parsing or webhook debugging. It's communication. Let me explain.\" I've spoken to stones of people who spend 3 weeks \"learning n8n\" before building their first workflow. They took courses. Watched tutorials. Memorized node types. Built practice flows that did nothing useful. Then they tried to build something real - and got stuck anyway. Because knowing where the HTTP Request node lives doesn't help you when you can't articulate what you actually need. Meanwhile, someone with zero technical background - described what they wanted in plain English and had a working 14-node lead gen workflow in 4 minutes. Same tool. Same goal. Completely different approach. The difference? One person learned the tool. The other learned how to communicate with AI. \"I'm not saying n8n knowledge is worthless. I'm saying the ratio is backwards. Here's what you actually need: 1. Learn to Communicate with AI This sounds simple. It's not. Most people can't clearly explain what they want to a human - let alone an AI. They use vague language. Skip steps. Assume context that isn't there. \\\"Build me a lead gen workflow\\\" means nothing. \\\"When a new row is added to my Google Sheet with columns for name, email, and company, enrich the company data using Apollo, score the lead based on employee count and industry, then send qualified leads to Slack channel\"",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:28:00.455145",
+  "fetched_at": "2026-01-26T13:26:06.802178",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 12,
+    "reposts": 61,
+    "likes": 472,
+    "bookmarks": 837,
+    "views": 75089
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

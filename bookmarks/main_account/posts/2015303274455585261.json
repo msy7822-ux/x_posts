@@ -1,16 +1,16 @@
 {
   "status_id": "2015303274455585261",
   "username": "lukeburgis",
-  "display_name": "",
-  "text": "",
+  "display_name": "Luke Burgis",
+  "text": "Luke Burgis \"Those using Clawdbot—okay, I tried it. Critical question: I have the Max subscription for Claude, but it seems Anthropic is basically forcing me to use the API and pay entirely separately. Can anyone confirm? Did Anthropic just make a change? I can't seem to get it connected to my\" Max account, only via APi credits. Claude",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:25:26.897469",
+  "fetched_at": "2026-01-26T13:24:46.214583",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 60,
+    "reposts": 8,
+    "likes": 195,
+    "bookmarks": 499,
+    "views": 85438
   },
   "has_media": false,
   "is_quote": false,

@@ -1,18 +1,18 @@
 {
   "status_id": "2014373481602040188",
   "username": "vercel_dev",
-  "display_name": "",
-  "text": "",
+  "display_name": "Vercel Developers",
+  "text": "Vercel Developers \"Over 4,500 unique agent skills have been added via 𝚗𝚙𝚡 𝚜𝚔𝚒𝚕𝚕𝚜 from major products across the ecosystem: •\" • • • • • • Find new skills and level up your agents at The Agent Skills Directory",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:32:28.580165",
+  "fetched_at": "2026-01-26T13:22:44.079830",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 43,
+    "reposts": 200,
+    "likes": 1725,
+    "bookmarks": 1554,
+    "views": 237154
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

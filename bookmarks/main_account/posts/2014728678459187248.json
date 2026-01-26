@@ -1,18 +1,18 @@
 {
   "status_id": "2014728678459187248",
   "username": "AlexFinn",
-  "display_name": "",
-  "text": "",
+  "display_name": "Alex Finn",
+  "text": "Alex Finn Just hired my first employee today. The best part is he works 24/7/365. Welcome Clawd.",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:30:40.743951",
+  "fetched_at": "2026-01-26T13:26:01.933856",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 251,
+    "reposts": 172,
+    "likes": 2736,
+    "bookmarks": 1148,
+    "views": 2000837
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

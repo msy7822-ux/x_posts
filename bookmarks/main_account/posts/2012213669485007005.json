@@ -1,18 +1,18 @@
 {
   "status_id": "2012213669485007005",
   "username": "AIWarper",
-  "display_name": "",
-  "text": "",
+  "display_name": "A.I.Warper",
+  "text": "A.I.Warper",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:31:52.817686",
+  "fetched_at": "2026-01-26T13:26:19.027983",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 8,
+    "reposts": 5,
+    "likes": 136,
+    "bookmarks": 247,
+    "views": 9328
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

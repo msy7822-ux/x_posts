@@ -1,18 +1,18 @@
 {
   "status_id": "2010123101544345964",
   "username": "0x__tom",
-  "display_name": "",
-  "text": "",
+  "display_name": "Tom | ドバイで生成AIやってる人",
+  "text": "Tom | ドバイで生成AIやってる人 海外でバズってるバイブコーディングで「ステートマシン図」を作らせる手法。これ使えば「Claude Codeの手抜き」を防げるらしい。 要はAIにいきなりコードを書かせると「適当な省略」をされがちなんだよね。でもステートマシン図として可視化させることで、ロジックの破綻が即バレる。全ての状態遷移を洗い出さざるを得なくなるから、手抜きの余地がない、という手法らしい。 ①全パスの洗い出しが強制される ②システムレベルでの整合性チェックができる ③コード生成前の設計品質が段違いに上がる Claude Codeで開発する前にまずこの図を作らせてからコード書かせると精度が上がる可能性あるよ。みんなも試して。 Quote mert \"@mert\" a quick opus 4.5 vibecoding tip ask claude to make state machine diagrams of existing components this causes it to map out all paths (which, it will default to being lazy otherwise) but also helps you verify if it's doing things correctly at a systems level",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:33:03.852452",
+  "fetched_at": "2026-01-26T13:23:28.945157",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 2,
+    "reposts": 152,
+    "likes": 1375,
+    "bookmarks": 1821,
+    "views": 163185
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

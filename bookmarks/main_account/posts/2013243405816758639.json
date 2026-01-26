@@ -2,9 +2,9 @@
   "status_id": "2013243405816758639",
   "username": "saki_reset",
   "display_name": "",
-  "text": "",
+  "text": "You’re unable to view this Post because this account owner limits who can view their Posts.",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:32:48.035460",
+  "fetched_at": "2026-01-26T13:23:08.469839",
   "metrics": {
     "replies": 0,
     "reposts": 0,
@@ -12,7 +12,7 @@
     "bookmarks": 0,
     "views": 0
   },
-  "has_media": true,
+  "has_media": false,
   "is_quote": false,
   "quoted_post": null
 }

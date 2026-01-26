@@ -1,18 +1,18 @@
 {
   "status_id": "2011099465302913287",
   "username": "GOROman",
-  "display_name": "",
-  "text": "",
+  "display_name": "null-sensei",
+  "text": "null-sensei おー、勝手にClaude Code（左） がCodex（右）に相談しながら働いてるw おもろw Quote null-sensei \"@GOROman\" 馬車馬のように x.com/GOROman/status…",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:32:28.439248",
+  "fetched_at": "2026-01-26T13:21:30.115590",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 12,
+    "reposts": 640,
+    "likes": 5150,
+    "bookmarks": 3096,
+    "views": 743993
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

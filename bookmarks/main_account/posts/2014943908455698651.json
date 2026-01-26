@@ -1,18 +1,18 @@
 {
   "status_id": "2014943908455698651",
   "username": "chatgpt21",
-  "display_name": "",
-  "text": "",
+  "display_name": "Chris",
+  "text": "Chris What rabbit was supposed to be Quote gaut \"@0xgaut\" they are out here creating claude code tamagotchis and I’m so here for it",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:29:27.606418",
+  "fetched_at": "2026-01-26T13:21:53.703505",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 29,
+    "reposts": 49,
+    "likes": 1027,
+    "bookmarks": 154,
+    "views": 103799
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

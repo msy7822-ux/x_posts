@@ -1,18 +1,18 @@
 {
   "status_id": "2014800080218501549",
   "username": "ctatedev",
-  "display_name": "",
-  "text": "",
+  "display_name": "Chris Tate",
+  "text": "Chris Tate Many thanks \"@\\\\timwhitez @\\\\yonatangross @\\\\namish800 @\\\\tomdale @\\\\shpeedle @\\\\mmhiyoko @\\\\mypengpengli @\\\\reformedot!\" 2.3K Christo Ribeiro Can i use proxy? \"925\"",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:30:08.614900",
+  "fetched_at": "2026-01-26T13:24:31.390326",
   "metrics": {
-    "replies": 0,
+    "replies": 1,
     "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "likes": 16,
+    "bookmarks": 2,
+    "views": 2344
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

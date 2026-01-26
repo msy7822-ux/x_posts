@@ -1,18 +1,18 @@
 {
   "status_id": "2013265194160672997",
   "username": "WesRoth",
-  "display_name": "",
-  "text": "",
+  "display_name": "Bradford Ferguson",
+  "text": "Bradford Ferguson Does this mean that Claude will learn to read the file before attempting to update it? 1.9K conor brennan-burke if you are building a startup alternative to claude cowork, you can use to implement this exact feature connect all of your sources of context (and your customer’s context) for the agent to automatically reference \"597\"",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:28:33.328990",
+  "fetched_at": "2026-01-26T13:21:35.196534",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
+    "replies": 1,
+    "reposts": 1,
+    "likes": 10,
     "bookmarks": 0,
-    "views": 0
+    "views": 1956
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

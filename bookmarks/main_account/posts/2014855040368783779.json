@@ -1,18 +1,18 @@
 {
   "status_id": "2014855040368783779",
   "username": "dani_avila7",
-  "display_name": "",
-  "text": "",
+  "display_name": "Daniel San",
+  "text": "Daniel San How I Built Claude Code Templates for Free (400K+ Downloads) 23K \"Maintaining open source projects that scale is far from cheap. You need to get creative and leverage whatever free-tier services you can find. One of my first thoughts was: the service should be built on top of something every developer already has. npm + GitHub came to mind immediately. So I built a CLI that runs easily with npx, and the entire backend sits on GitHub using their public API, which has rate limits per IP. This way, I host absolutely nothing. The client runs npx, and each GitHub API call runs on their own account.\" \"The Stack:\" Here's where it gets interesting. Most package managers need servers to handle distribution. I skipped that entirely. \"When you run npx claude-code-templates --skill=\\\"skill_name\\\", the CLI makes a direct API call to GitHub from your machine. GitHub's public API has generous rate limits per IP address (5,000 requests/hour for authenticated, 60/hour for non-authenticated). Since each user runs the CLI from their own IP, each one gets their own rate limit bucket. I'm not t",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:29:56.980666",
+  "fetched_at": "2026-01-26T13:26:14.152334",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 4,
+    "reposts": 14,
+    "likes": 150,
+    "bookmarks": 226,
+    "views": 23890
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

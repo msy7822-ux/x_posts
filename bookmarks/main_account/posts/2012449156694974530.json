@@ -1,18 +1,18 @@
 {
   "status_id": "2012449156694974530",
   "username": "NahFlo2n",
-  "display_name": "",
-  "text": "",
+  "display_name": "Florin",
+  "text": "Florin",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:31:16.488281",
+  "fetched_at": "2026-01-26T13:21:37.704520",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 100,
+    "reposts": 60,
+    "likes": 155,
+    "bookmarks": 253,
+    "views": 11351
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

@@ -1,18 +1,18 @@
 {
   "status_id": "2011977154242936903",
   "username": "dezainaz_ceo",
-  "display_name": "",
-  "text": "",
+  "display_name": "塚本 賢志 / Kenshi Tsukamoto",
+  "text": "塚本 賢志 / Kenshi Tsukamoto 困った時に使えるFVのワイヤーフレーム集 Last edited",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:31:58.716574",
+  "fetched_at": "2026-01-26T13:23:01.159800",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 2,
+    "reposts": 98,
+    "likes": 1054,
+    "bookmarks": 849,
+    "views": 48226
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

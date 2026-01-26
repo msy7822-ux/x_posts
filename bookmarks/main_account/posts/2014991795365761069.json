@@ -1,18 +1,18 @@
 {
   "status_id": "2014991795365761069",
   "username": "7_eito_7",
-  "display_name": "",
-  "text": "",
+  "display_name": "えいと",
+  "text": "えいと これまでの常識を覆すRAGがオープンソースで発表されました。 ・ベクトルDBなし ・埋め込みなし ・チャンク化なし それでも性能テストで98.7%の正答率。RAGの常識が変わるかもしれません 0:22",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:29:13.798767",
+  "fetched_at": "2026-01-26T13:20:58.849675",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 6,
+    "reposts": 141,
+    "likes": 1402,
+    "bookmarks": 1609,
+    "views": 113819
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

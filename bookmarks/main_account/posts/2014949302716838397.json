@@ -1,16 +1,16 @@
 {
   "status_id": "2014949302716838397",
   "username": "mizchi",
-  "display_name": "",
-  "text": "",
+  "display_name": "mizchi",
+  "text": "mizchi コードは安価になったが、ソフトウェアはそうではない Code Is Cheap Now. Software Isn’t.",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:29:25.311648",
+  "fetched_at": "2026-01-26T13:28:09.950528",
   "metrics": {
     "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "reposts": 68,
+    "likes": 521,
+    "bookmarks": 304,
+    "views": 36820
   },
   "has_media": false,
   "is_quote": false,

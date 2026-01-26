@@ -1,18 +1,18 @@
 {
   "status_id": "2014474055005700103",
   "username": "nummanali",
-  "display_name": "",
-  "text": "",
+  "display_name": "Numman Ali",
+  "text": "Numman Ali Claude Code v2.1.16 adds new task management system with full dependency tracking I demoed this through CC Mirror a few weeks ago and it was extremely powerful Watch the full video - this is going to change the way you work forever Each task can be assigned to sub agents in parallel and they can easily pick up tasks as they become unblocked 1:55 Last edited",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:32:16.901494",
+  "fetched_at": "2026-01-26T13:25:38.785071",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 27,
+    "reposts": 48,
+    "likes": 445,
+    "bookmarks": 516,
+    "views": 50048
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

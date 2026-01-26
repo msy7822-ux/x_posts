@@ -1,18 +1,18 @@
 {
   "status_id": "2009469273291542562",
   "username": "webshinzaemon",
-  "display_name": "",
-  "text": "",
+  "display_name": "Web真左衛門｜広告運用",
+  "text": "Web真左衛門｜広告運用 毎朝、Meta広告の分析をAIにさせて結果を通知してもらう方法 n8n、Slack、スプシ(GAS付き)を連携させれば、毎朝自動で広告の分析レポートを受け取れるようにできます。 Googleについては公式がGoogle広告ノードを提供していますが、Metaに関しては公式のノードを使うよりもスプシにデータを用意してAIに分析させた方がより深い分析が可能です。 スクショのように、定刻になれば作動しAIエージェントがスプシの中のデータを分析、Slackで結果を通知してくれるワークフローを見れば、迅速に広告の配信状況を把握できます。 スプシについては、GASを使ってMetaのMarketing APIと接続、データをテーブル状に格納し、毎日自動で更新するようにしています。 この一連の実装方法については引用元のポストを参考にしていただけますと幸いです！ Geminiに根気強く聞けば誰でも実装できます。 ご参考になりましたら幸いです！ Quote Web真左衛門｜広告運用 \"@webshinzaemon\" Slack × n8n × Google広告の連携でAI広告コンサルを作る手順 【最終回】Slack連携 出力編 AI広告コンサルの最後のステップとして、AIエージェントの出力をSlackに出力する設定をします。 今回はn8nの立ち上げからSlackとAIエージェントとGoogle広告の連携までを解説してきました。 AI広告コンサル x.com/webshinzaemon/…",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:33:24.537935",
+  "fetched_at": "2026-01-26T13:23:45.996377",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 1,
+    "reposts": 20,
+    "likes": 228,
+    "bookmarks": 246,
+    "views": 31442
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

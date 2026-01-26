@@ -1,18 +1,18 @@
 {
   "status_id": "2014786522852073966",
   "username": "dani_avila7",
-  "display_name": "",
-  "text": "",
+  "display_name": "Daniel San",
+  "text": "Daniel San Questions you should ask yourself when working with these two technologies \"538\" Alex Walz My main question is, with progressive disclosure principles, is MCP dead? That information just gets lost over time in the message history and your agent will need to use the MCP over and over again. The amount of tokens that come back from some of those MCPs is also huge. \"46\"",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:30:10.540409",
+  "fetched_at": "2026-01-26T13:21:17.245265",
   "metrics": {
     "replies": 0,
     "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "likes": 3,
+    "bookmarks": 6,
+    "views": 538
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

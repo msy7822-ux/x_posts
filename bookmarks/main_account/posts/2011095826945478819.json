@@ -1,18 +1,18 @@
 {
   "status_id": "2011095826945478819",
   "username": "GOROman",
-  "display_name": "",
-  "text": "",
+  "display_name": "null-sensei",
+  "text": "null-sensei 馬車馬のように Quote null-sensei \"@GOROman\" Claude Code と Codex を繋いでみた。 0:31",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:32:30.445600",
+  "fetched_at": "2026-01-26T13:26:28.737738",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 3,
+    "reposts": 54,
+    "likes": 497,
+    "bookmarks": 296,
+    "views": 751945
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

@@ -1,18 +1,18 @@
 {
   "status_id": "2014993490791534844",
   "username": "roy29fuku",
-  "display_name": "",
-  "text": "",
+  "display_name": "山田涼太 | Science Aid CEO",
+  "text": "山田涼太 | Science Aid CEO Claude Code + Ghosttyの通知設定 推しポイント： - 通知クリックでGhosttyの該当ペインに飛ぶ - 処理内容がサブタイトルに自動表示 通知アイコンがGhosttyになったのも視覚的にわかりやすくて良い。 以下、つまずきポイント。",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:29:00.180956",
+  "fetched_at": "2026-01-26T13:22:03.538346",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 1,
+    "reposts": 19,
+    "likes": 346,
+    "bookmarks": 400,
+    "views": 33356
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

@@ -1,18 +1,18 @@
 {
   "status_id": "2014706422865358977",
   "username": "_philschmid",
-  "display_name": "",
-  "text": "",
+  "display_name": "Philipp Schmid",
+  "text": "Philipp Schmid mcp-cli update! \"Faster MCP interactions with smart connection and granular tool control. - 3-subcommand architecture to remove side effect: `info`, `grep`, and `call` - Connection pooling daemon with 60-second idle timeout. - Filter tools per server via allowedTools/disabledTools globs. - Improved errors messages for better LLM recovery - New Improved Agent skill ``` curl -fsSL <https://raw>(.)githubusercontent(.)com/philschmid/mcp-cli/main/install.sh | bash ```\"",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:30:44.546127",
+  "fetched_at": "2026-01-26T13:28:24.623953",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 7,
+    "reposts": 7,
+    "likes": 98,
+    "bookmarks": 39,
+    "views": 5570
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

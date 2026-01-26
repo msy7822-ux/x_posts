@@ -1,18 +1,18 @@
 {
   "status_id": "2014358874716082346",
   "username": "webbigdata",
-  "display_name": "",
-  "text": "",
+  "display_name": "webbigdata",
+  "text": "Qwen3-TTS - apache 2.0 - 0.6B & 1.7B 非常に軽い - 日本語含む10言語対応 - ストリーミング対応 - 話し方の指示できるモデルも（デモ添付） 添付デモは Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign です。非常に軽いですね、凄い！ 0:24 Quote Qwen \"@Alibaba_Qwen\" Qwen3-TTS is officially live. We’ve open-sourced the full family—VoiceDesign, CustomVoice, and Base—bringing high quality to the open community. - 5 models (0.6B & 1.8B) - Free-form voice design & cloning - Support for 10 languages - SOTA 12Hz tokenizer for high compression -",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:32:30.549344",
+  "fetched_at": "2026-01-26T13:23:18.222667",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 1,
+    "reposts": 36,
+    "likes": 336,
+    "bookmarks": 254,
+    "views": 33893
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

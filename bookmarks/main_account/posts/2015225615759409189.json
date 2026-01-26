@@ -1,18 +1,18 @@
 {
   "status_id": "2015225615759409189",
   "username": "masahirochaen",
-  "display_name": "",
-  "text": "",
+  "display_name": "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信 ⚡️ 》",
+  "text": "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信 》 HeyGen + Remotion + Claude Codeで、アバター付きの説明動画すら日本語指示で自動生成可能に。 動画生成も、ターミナルで当たり前に行う時代になりそう。 ネックはHeyGenのAPI価格。動画1分あたり約150円なので、ミスは極力避けたい。 アバター系は基本的にコスト高め。 0:34 From Joshua Xu",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:25:49.945888",
+  "fetched_at": "2026-01-26T13:23:43.572837",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 3,
+    "reposts": 5,
+    "likes": 93,
+    "bookmarks": 95,
+    "views": 14576
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

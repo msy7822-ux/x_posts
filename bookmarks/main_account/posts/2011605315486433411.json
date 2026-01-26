@@ -1,18 +1,18 @@
 {
   "status_id": "2011605315486433411",
   "username": "hiradaty",
-  "display_name": "",
-  "text": "",
+  "display_name": "ひらりー｜手帳管理アプリ",
+  "text": "ひらりー｜手帳管理アプリ ClaudeCodeに動画渡せるの最高すぎるww 自動シャッターの機能を作ってるんだけど 細かいUXを文章で伝えるのキツすぎた 動画ならめっちゃスムーズ もうこれがない世界に戻れない 0:14 Quote Rikuo \"@riku720720\" 動画をClaudeCodeに読ませる試み。 普通にフレーム分割して全部渡すと、5秒の動画で450円くらいかかるので pythonを使って、差分が大きいキーフレームのみを抽出。画質も下げて、５秒の動画読み込みを24円まで削減。 これをskillsにすれば、画面遷移のバグとかも修正が楽になるはず",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:32:04.752854",
+  "fetched_at": "2026-01-26T13:22:46.512202",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 5,
+    "reposts": 141,
+    "likes": 1618,
+    "bookmarks": 1590,
+    "views": 333921
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }

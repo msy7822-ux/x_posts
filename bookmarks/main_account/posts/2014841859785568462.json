@@ -1,16 +1,16 @@
 {
   "status_id": "2014841859785568462",
   "username": "mikedemarais",
-  "display_name": "",
-  "text": "",
+  "display_name": "mikedemarais.eth",
+  "text": "mikedemarais.eth anyone able to explain the core value prop of",
   "created_at": "",
-  "fetched_at": "2026-01-26T11:30:00.848282",
+  "fetched_at": "2026-01-26T13:23:38.711436",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 120,
+    "reposts": 21,
+    "likes": 437,
+    "bookmarks": 665,
+    "views": 105540
   },
   "has_media": false,
   "is_quote": false,

@@ -1,18 +1,18 @@
 {
   "status_id": "2011351547406647448",
   "username": "nztm_tw",
-  "display_name": "",
-  "text": "",
+  "display_name": "野崎 智弘 / Tomohiro Nozaki",
+  "text": "野崎 智弘 / Tomohiro Nozaki スマホアプリのUI、国ごとに情報量や色使いが全然違ってて面白い。各国のアプリUIがまとまったサイト、眺めてるだけで時間溶けちゃう \"米国:\" \",\" \"日本:\" \"韓国:\" \"中国:\"",
   "created_at": "",
-  "fetched_at": "2026-01-23T20:32:24.323096",
+  "fetched_at": "2026-01-26T13:25:31.428673",
   "metrics": {
-    "replies": 0,
-    "reposts": 0,
-    "likes": 0,
-    "bookmarks": 0,
-    "views": 0
+    "replies": 4,
+    "reposts": 247,
+    "likes": 2452,
+    "bookmarks": 2646,
+    "views": 178423
   },
-  "has_media": false,
+  "has_media": true,
   "is_quote": false,
   "quoted_post": null
 }
