@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-01-31T10:45:00",
+  "count": 3,
+  "bookmarks": [
+    {
+      "text": "Claude Codeの新機能がリリースされました。--from-prフラグでPRに紐づいたセッションのresumeが可能に。",
+      "author": "oikon48",
+      "url": "https://x.com/oikon48/status/2014247284759023983",
+      "collected_at": "2026-01-31T10:45:00"
+    },
+    {
+      "text": "Agent Eval AI - コーディングエージェントの評価ツール。ドキュメントやMCPサーバー、モデル選択が正確なコード生成に寄与するかを評価。",
+      "author": "nukonuko",
+      "url": "https://x.com/nukonuko/status/2017056668983710118",
+      "collected_at": "2026-01-31T10:45:00"
+    },
+    {
+      "text": "Claude Codeの真の価値はコードを書かせるツールではなく、Skills・Hooks・Subagents・MCPを組み合わせた生産性向上システム。",
+      "author": "FABYMETAL4",
+      "url": "https://x.com/FABYMETAL4/status/2017336522476032269",
+      "collected_at": "2026-01-31T10:45:00"
+    }
+  ]
+}

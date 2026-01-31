@@ -1,0 +1,24 @@
+{
+  "collected_at": "2026-01-31T10:39:28.869984",
+  "count": 3,
+  "bookmarks": [
+    {
+      "text": "Test post 1",
+      "author": "testuser1",
+      "url": "https://x.com/testuser1/status/1234567890",
+      "collected_at": "2026-01-31T10:39:28.869994"
+    },
+    {
+      "text": "Test post 2",
+      "author": "testuser2",
+      "url": "https://x.com/testuser2/status/0987654321",
+      "collected_at": "2026-01-31T10:39:28.869997"
+    },
+    {
+      "text": "Test post 3",
+      "author": "testuser3",
+      "url": "https://x.com/testuser3/status/1122334455",
+      "collected_at": "2026-01-31T10:39:28.869999"
+    }
+  ]
+}
